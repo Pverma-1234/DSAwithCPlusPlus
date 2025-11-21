@@ -1,4 +1,4 @@
-123. Water Overflow
+124. Water Overflow
 There is a stack of water glasses in the form of a Pascal triangle and a person wants to pour the water at the topmost glass, but the capacity of each glass is 1 unit. Overflow takes place in such a way that after 1 unit, 1/2 of the remaining unit gets into the bottom left glass and the other half in the bottom right glass. Now John pours K units of water in the topmost glass and wants to know how much water is there in the Cth glass of the Rth row.
 
 Note: Assume that there are enough glasses in the triangle till no glass overflows.
